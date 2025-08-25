@@ -28,6 +28,16 @@ This repository contains materials intended solely for learning and knowledge sh
 - Open source collaboration
 - Knowledge sharing
 
+## 🤝 Contributing
+
+We welcome contributions to improve this educational resource:
+
+- **Report Issues**: Submit bug reports or suggestions via GitHub Issues
+- **Propose Changes**: Fork the repository, modify the code, and submit pull requests
+- **Enhance Documentation**: Help improve README and documentation clarity
+
+Please ensure all contributions maintain the educational purpose and include proper attribution.
+
 ## ⚖️ License
 
 This project is provided under educational use terms. See [LICENSE](LICENSE) file for complete details.
